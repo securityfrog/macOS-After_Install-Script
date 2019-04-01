@@ -15,11 +15,11 @@
 
 # Install Packages related to standard *NIX coreutils and build dependencies
 
-brew install autoconf
-brew install automake
-brew install coreutils
+brew install autoconf ## Automatic configure script builder
+brew install automake ## Tool for generating GNU Standards-compliant Makefiles
+brew install coreutils ## GNU File, Shell, and Text utilities
 brew install geoip ## Geography based location lookup by IP Address
-brew install grep
+brew install grep 
 brew install htop
 brew install parallel
 brew install wget  ## Terminal Download utility
@@ -27,7 +27,7 @@ brew install wget  ## Terminal Download utility
 # Install random utilities
 brew install calc  ## Terminal Based Calculator
 brew install speedtest-cli ## Terminal Based utility to test upload and download speed
-brew install ansiweather ## Terminal Weather Forecast Utility
+brew install ansiweather ## Weather in your terminal, with ANSI colors and Unicode symbols
 brew install screenfetch ## Terminal based system info output in single screen
 
 # Some cask packages that I like.
@@ -36,3 +36,6 @@ brew install screenfetch ## Terminal based system info output in single screen
 # brew cask install virtualbox	## Useful free virtulization software -- Uncomment to install
 brew cask install flux  ## https://justgetflux.com
 brew cask install appcleaner ## Useful Utility to completely uninstall applications and remaining config files
+brew cask install keepassc ## Curses-based password manager for KeePass v.1.x and KeePassX
+brew cask install 0xed ## 0xED is a native OS X hex editor
+
