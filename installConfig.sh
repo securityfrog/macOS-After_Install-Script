@@ -29,6 +29,7 @@ brew install calc  ## Terminal Based Calculator
 brew install speedtest-cli ## Terminal Based utility to test upload and download speed
 brew install ansiweather ## Weather in your terminal, with ANSI colors and Unicode symbols
 brew install screenfetch ## Terminal based system info output in single screen
+brew install keepassc ## Curses-based password manager for KeePass v.1.x and KeePassX
 
 # Some cask packages that I like.
 # brew cask install sublime-text ## sublime text 3 is now the default. -- Uncomment to install
@@ -36,6 +37,5 @@ brew install screenfetch ## Terminal based system info output in single screen
 # brew cask install virtualbox	## Useful free virtulization software -- Uncomment to install
 brew cask install flux  ## https://justgetflux.com
 brew cask install appcleaner ## Useful Utility to completely uninstall applications and remaining config files
-brew cask install keepassc ## Curses-based password manager for KeePass v.1.x and KeePassX
 brew cask install 0xed ## 0xED is a native OS X hex editor
 
