@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Script Name: installConfig.sh
-# Author: Jeremy Nation <nationjd@icloud.com>
+# Author: securityfrog
 # Original Creation Date: 27 March, 2018
 # Latest Update Date: 31 March, 2019
 #
