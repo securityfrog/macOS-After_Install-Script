@@ -9,6 +9,7 @@
 # Change log:
 # Version 1.0 - Original Creation and upload
 # Version 1.1 - Updates to comment and format with additional information
+# Version 1.2 - Implemented brew testing and additional configuration and brew setup from https://gist.github.com/bradp/bea76b16d3325f5c47d4 while removing sections such as transmission torrent configuration items for an industry approved installation setup script.
 
 # Install HomeBrew following Official Homebrew Documentation
 if test ! $(which brew); then
